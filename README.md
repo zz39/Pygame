@@ -13,3 +13,9 @@ the aliens, a new fleet appears that moves faster than the previous fleet. If an
 player's ship or reaches the bottom of the screen, the player loses a ship. If the player loses 
 three ships, the game ends.
 """
+
+How to start this game:
+1. Download 'pygame_alien_invasion' at https://github.com/zz39/Pygame/tree/main/pygame_alien_invasion
+2. Open 'pygame_AlienInvasion.py'. (assume you have python3 installed)
+3. run 'pygame_AlienInvasion.py' in your terminal or IDE.
+4. Have fun ;)
