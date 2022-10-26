@@ -15,7 +15,7 @@ three ships, the game ends.
 """
 
 How to start this game:
-1. Download 'pygame_alien_invasion' at https://github.com/zz39/Pygame/tree/main/pygame_alien_invasion
+1. Download folder 'pygame_alien_invasion' at https://github.com/zz39/Pygame
 2. Open 'pygame_AlienInvasion.py'. (assume you have python3 installed)
 3. run 'pygame_AlienInvasion.py' in your terminal or IDE.
 4. Have fun ;)
